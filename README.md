@@ -42,12 +42,12 @@ python script/merge_dimdown.py \
 --model_dir meta-llama/Llama-2-7b-hf \
 --adaptor_path $ADAPTER
 ```
-
-## Acknowledgment
-Modified from [FireFly](https://github.com/yangjianxin1/Firefly)
 Additionally, we provide some PAT results [here]().
 - [x] Llama 2 7B
 - [x] Llama 2 13B
 - [x] Gemma 2B
 - [x] Gemma 7B
 - [x] Yi-1.5 34B
+
+## Acknowledgment
+Modified from [FireFly](https://github.com/yangjianxin1/Firefly)
