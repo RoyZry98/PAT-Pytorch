@@ -1,8 +1,8 @@
-## Introduction
-This repo is the official implementation of `PAT: Pruning-Aware Tuning for Large Language Models`
+# PAT: Pruning-Aware Tuning for Large Language Models
+![Python 3.9](https://img.shields.io/badge/Python-3.9-red)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2405.16486)
 
-## Acknowledgment
-Modified from [FireFly](https://github.com/yangjianxin1/Firefly)
+<img src="pat.png"/>
 
 ## Installation
 ```bash
@@ -42,6 +42,9 @@ python script/merge_dimdown.py \
 --model_dir meta-llama/Llama-2-7b-hf \
 --adaptor_path $ADAPTER
 ```
+
+## Acknowledgment
+Modified from [FireFly](https://github.com/yangjianxin1/Firefly)
 Additionally, we provide some PAT results [here]().
 - [x] Llama 2 7B
 - [x] Llama 2 13B
