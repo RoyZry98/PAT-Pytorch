@@ -1,6 +1,6 @@
 # PAT: Pruning-Aware Tuning for Large Language Models
 ![Python 3.9](https://img.shields.io/badge/Python-3.9-red)
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2405.16486)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2408.14721)
 
 <img src="pat.png"/>
 
